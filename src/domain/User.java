@@ -7,6 +7,15 @@ public class User {
 
     private String name;
     private int age;
+    private User wife;
+
+    public User getWife() {
+        return wife;
+    }
+
+    public void setWife(User wife) {
+        this.wife = wife;
+    }
 
     private Long id;
 
