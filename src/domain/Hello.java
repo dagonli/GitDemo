@@ -6,5 +6,9 @@ package domain;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("hello,ping an tech");
+
+        System.out.println("====================");
+
+        System.out.println("真的，压力好大呀 ！");
     }
 }
