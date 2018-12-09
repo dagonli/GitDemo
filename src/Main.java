@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("I am DagonLea.");
 
+        System.out.println("I am tired in PingAn Tech.");
+
     }
 }
