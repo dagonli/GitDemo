@@ -10,5 +10,8 @@ public class Hello {
         System.out.println("====================");
 
         System.out.println("真的，压力好大呀 ！");
+
+        System.out.println("modify br dagon on win7 named dagon_1");
+
     }
 }
